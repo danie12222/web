@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="utf-8">
+<title>Bienvenidos a mi pagina web </title>
+<link href="estilo.css" rel="stylesheet"/> 
+</head>
+<body>
+<div id="sec">
+   <h1>Venta de computadoras Pc master</h1>
+   <br>
+   <h4> Somos los mejores </h4>
+ </body>
+ <html>
+ 
